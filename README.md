@@ -8,4 +8,4 @@ mysql
 nginx
 phalcon3
 
-Working with add repostories to apt and composer to keep packages in sync with latest version 
+Working with apt adding repostories and use composer to keep packages in sync with latest version 
